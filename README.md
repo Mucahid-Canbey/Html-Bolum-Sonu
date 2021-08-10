@@ -1,2 +1,4 @@
-# Kodluyoruz-Odev-2
-Bolum Sonu Calismasi
+# Kodluyoruz & Patika
+---
+
+### Bölüm sonu çalışması
