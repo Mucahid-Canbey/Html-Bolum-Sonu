@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```
-git clone https://github.com/Mucahid-Canbey/Kodluyoruz-Odev-2.git
+https://github.com/Mucahid-Canbey/Html-Bolum-Sonu.git
 ```
 
 ## Usage
