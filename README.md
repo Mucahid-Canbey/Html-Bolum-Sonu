@@ -1,5 +1,6 @@
-# Kodluyoruz & Patika Repo
+# HTML Bölüm Sonu Çalışması
 
+## ![Image](https://r.resimlink.com/QvqbJzUg.png)
 ---
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html Bölüm sonu Reposu. İçerisinde bir adet README dosyası, üç adet de .html uzantısı dosya barındırıyor.
